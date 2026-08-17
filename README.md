@@ -198,8 +198,8 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 
 | Method                                                        | Type               | Code/Ref                                                                                                                                    |
 | ------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| PSNR (Peak Signal-to-Noise Ratio)                             | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,366 \| 🐛 353 \| 🌐 Python \| 📅 2024-07-21     |
-| SSIM (Structural Similarity Index Measurement)                | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,366 \| 🐛 353 \| 🌐 Python \| 📅 2024-07-21     |
+| PSNR (Peak Signal-to-Noise Ratio)                             | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,367 \| 🐛 353 \| 🌐 Python \| 📅 2024-07-21     |
+| SSIM (Structural Similarity Index Measurement)                | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,367 \| 🐛 353 \| 🌐 Python \| 📅 2024-07-21     |
 | MS-SSIM (Multi-scale Structural Similarity Index Measurement) | Full-Reference     | [Code](https://github.com/VainF/pytorch-msssim/blob/master/pytorch_msssim/ssim.py) ⭐ 1,252 \| 🐛 28 \| 🌐 Python \| 📅 2024-03-12           |
 | LPIPS (Learned Perceptual Image Patch Similarity)             | Full-Reference     | [Code](https://github.com/richzhang/PerceptualSimilarity) ⭐ 4,268 \| 🐛 59 \| 🌐 Python \| 📅 2024-07-02                                    |
 | NIQE (Naturalness Image Quality Evaluator)                    | Non-Reference      | [Code](https://github.com/utlive/niqe) ⭐ 25 \| 🐛 1 \| 🌐 MATLAB \| 📅 2021-10-26                                                           |
@@ -209,7 +209,7 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 | iPrecision                                                    | Task Driven-Metric | [Ref](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)                      |
 | iRecall                                                       | Task Driven-Metric | [Ref](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)                      |
 | LLE (Landmark Localization Error)                             | Task Driven-Metric | [Code](https://github.com/Lotayou/Face-Renovation) ⭐ 292 \| 🐛 18 \| 🌐 Python \| 📅 2020-12-06                                             |
-| Deg (Identity Distance)                                       | Task Driven-Metric | [Code](https://github.com/TencentARC/GFPGAN) ⭐ 37,656 \| 🐛 402 \| 🌐 Python \| 📅 2024-07-26                                               |
+| Deg (Identity Distance)                                       | Task Driven-Metric | [Code](https://github.com/TencentARC/GFPGAN) ⭐ 37,655 \| 🐛 402 \| 🌐 Python \| 📅 2024-07-26                                               |
 | AFLD (Average Face Landmark Distance)                         | Task Driven-Metric | [Code](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model) ⭐ 39 \| 🐛 6 \| 🌐 Python \| 📅 2022-09-14 |
 | AFICS (Average Face ID Cosine Similarity)                     | Task Driven-Metric | [Code](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model) ⭐ 39 \| 🐛 6 \| 🌐 Python \| 📅 2022-09-14 |
 
@@ -268,4 +268,4 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
