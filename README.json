@@ -1,64 +1,9 @@
 {
-  "items": [
-    {
-      "description": "T. Wang, k. Zhang, J. Deng, T. Lu, W. Liu, and S. Zafeiriou “Deep Face Restoration: A Survey,” ACM Computing Surveys, 2026. [pdf]\nSee our paper for more details. If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.com). Thanks.",
-      "items": [],
-      "title": "Survey paper"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Surveys"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deep Blind Face Restoration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deep Face Super-Resolution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deep Face Deblurring"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deep Face Denoising"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deep Face Artifact Removal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image Quality Assessment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Benchmark Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recommended Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "All Datasets"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T06:18:30.982Z",
+    "last_updated": "2026-08-19T12:07:28.733Z",
     "original_repository": "TaoWangzj/Awesome-Face-Restoration",
+    "original_repository_id": 563156667,
     "original_repository_sha": "6b070f3ae4ee301959403184523451e40a97e5a3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Face-Restoration",
     "enhanced_repository_description": null,
