@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Learning Warped Guidance for Blind Face Restoration [paper][code] CNN",
+          "title": "csxmli2016/GFRNet",
+          "description": "][code] ECCV Learning Warped Guidance for Blind Face Restoration CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors [paper][code] CNN",
+          "title": "tyshiwo/FSRNet",
+          "description": "][code] CVPR FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "ECCV Blind Face Restoration via Deep Multi-scale Component Dictionaries [paper][code] CNN",
+          "title": "csxmli2016/DFDNet",
+          "description": "][code] ECCV Blind Face Restoration via Deep Multi-scale Component Dictionaries CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion [paper][code] CNN",
+          "title": "csxmli2016/ASFFNet",
+          "description": "][code] CVPR Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment [paper][code] GAN",
+          "title": "Lotayou/Face-Renovation",
+          "description": "][code] MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Image Processing Using Multi-Code GAN Prior [paper][code] GAN",
+          "title": "genforce/mganprior",
+          "description": "][code] CVPR Image Processing Using Multi-Code GAN Prior GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR Progressive Semantic-Aware Style Transformation for Blind Face Restoration [paper][code] GAN",
+          "title": "chaofengc/PSFRGAN",
+          "description": "][code] CVPR Progressive Semantic-Aware Style Transformation for Blind Face Restoration GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "CVPR GAN Prior Embedded Network for Blind Face Restoration in the Wild [paper][code] GAN",
+          "title": "yangxy/GPEN",
+          "description": "][code] CVPR GAN Prior Embedded Network for Blind Face Restoration in the Wild GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Multi-prior learning via neural architecture search for blind face restoration [paper][code] CNN",
+          "title": "YYJ1anG/MFPSNet",
+          "description": "][code] Arxiv Multi-prior learning via neural architecture search for blind face restoration CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs [paper][code] ViT",
+          "title": "wzhouxiff/RestoreFormer",
+          "description": "][code] CVPR RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "NeurIPS Towards Robust Blind Face Restoration with Codebook Lookup Transformer [paper][code] ViT",
+          "title": "sczhou/CodeFormer",
+          "description": "][code] NeurIPS Towards Robust Blind Face Restoration with Codebook Lookup Transformer ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,13 +165,13 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18110
+            "stars": 18111
           }
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "AAAI Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration [paper][code] GAN",
+          "title": "jianzhangcs/panini",
+          "description": "][code] AAAI Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model [paper][code] ViT",
+          "title": "bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
+          "description": "][code] Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder [paper][code] CNN",
+          "title": "TencentARC/VQFR",
+          "description": "][code] ECCV VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "TPAMI Learning Dual Memory Dictionaries for Blind Face Restoration [paper][code] CNN",
+          "title": "csxmli2016/DMDNet",
+          "description": "][code] TPAMI Learning Dual Memory Dictionaries for Blind Face Restoration CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Difface: Blind Face Restoration with Diffused Error Contraction [paper][code] Diffusion",
+          "title": "zsyOAOA/DifFace",
+          "description": "][code] Arxiv Difface: Blind Face Restoration with Diffused Error Contraction Diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration [paper][code] Diffusion",
+          "title": "Kaldwin0106/DR2_Drgradation_Remover",
+          "description": "][code] CVPR DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration Diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "WACV AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models [paper][code] Diffusion",
+          "title": "Nithin-GK/AT-DDPM",
+          "description": "][code] WACV AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models Diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "TCSVT Towards Real-World Blind Face Restoration with Generative Diffusion Prior [paper][code] Diffusion",
+          "title": "chenxx89/BFRffusion",
+          "description": "][code] TCSVT Towards Real-World Blind Face Restoration with Generative Diffusion Prior Diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "ECCV Ultra-Resolving Face Images by Discriminative Generative Networks [paper][code] GAN",
+          "title": "jiaming-wang/URDGN",
+          "description": "][code] ECCV Ultra-Resolving Face Images by Discriminative Generative Networks GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV To learn image super-resolution, use a GAN to learn how to do image degradation first [paper][code] GAN",
+          "title": "jingyang2017/Face-and-Image-super-resolution",
+          "description": "][code] ECCV To learn image super-resolution, use a GAN to learn how to do image degradation first GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "BMVC Progressive Face Super-Resolution via Attention to Facial Landmark [paper][code] CNN",
+          "title": "DeokyunKim/Progressive-Face-Super-Resolution",
+          "description": "][code] BMVC Progressive Face Super-Resolution via Attention to Facial Landmark CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "WACV Component Attention Guided Face Super-Resolution Network: CAGFace [paper][code] CNN",
+          "title": "SeungyounShin/CAGFace",
+          "description": "][code] WACV Component Attention Guided Face Super-Resolution Network: CAGFace CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,8 +356,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models [paper][code] GAN",
+          "title": "alex-damian/pulse",
+          "description": "][code] CVPR PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021",
-          "description": "MM Face Hallucination via Split-Attention in Split-Attention Network [paper][code] CNN",
+          "title": "mdswyz/SISN-Face-Hallucination",
+          "description": "][code] MM Face Hallucination via Split-Attention in Split-Attention Network CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors [paper][code] GAN",
+          "title": "hejingwenhejingwen/GCFSR",
+          "description": "][code] CVPR GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "TPAMI EDFace-Celeb-1 M: Benchmarking Face Hallucination with a Million-scale Dataset [paper][code] CNN",
+          "title": "HDCVLab/EDFace-Celeb-1M",
+          "description": "][code] TPAMI EDFace-Celeb-1 M: Benchmarking Face Hallucination with a Million-scale Dataset CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,8 +416,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "TIP Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution [paper][code] GAN",
+          "title": "HaoHou-98/SCGAN",
+          "description": "][code] TIP Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "AAAI GAN Prior based Null-Space Learning for Consistent Super-Resolution [paper][code] GAN",
+          "title": "wyhuai/RND",
+          "description": "][code] AAAI GAN Prior based Null-Space Learning for Consistent Super-Resolution GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -446,8 +446,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Spatial-Frequency Mutual Learning for Face Super-Resolution [paper][code] CNN",
+          "title": "wcy-cs/SFMNet",
+          "description": "][code] CVPR Spatial-Frequency Mutual Learning for Face Super-Resolution CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "TMM An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution [paper][code] ViT",
+          "title": "FVL2020/ELSFace",
+          "description": "][code] TMM An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,8 +476,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "TMM Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution [paper][code] ViT",
+          "title": "jingang-cv/DBTC",
+          "description": "][code] TMM Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "TIP Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution [paper][code] GAN",
+          "title": "HaoHou-98/SCGAN",
+          "description": "][code] TIP Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,8 +512,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Deep Semantic Face Deblurring [paper][code] CNN",
+          "title": "joanshen0508/Deep-Semantic-Face-Deblurring",
+          "description": "][code] CVPR Deep Semantic Face Deblurring CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -527,8 +527,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "TIP Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks [paper][code] CNN",
+          "title": "rajeevyasarla/UMSN-Face-Deblurring",
+          "description": "][code] TIP Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -542,8 +542,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment [paper][code] GAN",
+          "title": "Lotayou/Face-Renovation",
+          "description": "][code] MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -557,8 +557,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Multi-prior learning via neural architecture search for blind face restoration [paper][code] CNN",
+          "title": "YYJ1anG/MFPSNet",
+          "description": "][code] Arxiv Multi-prior learning via neural architecture search for blind face restoration CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,8 +572,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model [paper][code] ViT",
+          "title": "bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
+          "description": "][code] Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,8 +593,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment [paper][code] GAN",
+          "title": "Lotayou/Face-Renovation",
+          "description": "][code] MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,8 +608,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Multi-prior learning via neural architecture search for blind face restoration [paper][code] CNN",
+          "title": "YYJ1anG/MFPSNet",
+          "description": "][code] Arxiv Multi-prior learning via neural architecture search for blind face restoration CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -623,8 +623,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model [paper][code] ViT",
+          "title": "bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
+          "description": "][code] Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -644,8 +644,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment [paper][code] GAN",
+          "title": "Lotayou/Face-Renovation",
+          "description": "][code] MM HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,8 +659,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model [paper][code] ViT",
+          "title": "bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
+          "description": "][code] Arxiv Blind Face Restoration: Benchmark Datasets and a Baseline Model ViT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -674,8 +674,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Arxiv Multi-prior learning via neural architecture search for blind face restoration [paper][code] CNN",
+          "title": "YYJ1anG/MFPSNet",
+          "description": "][code] Arxiv Multi-prior learning via neural architecture search for blind face restoration CNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:51.500Z",
+    "last_updated": "2026-08-25T06:19:33.704Z",
     "original_repository": "TaoWangzj/Awesome-Face-Restoration",
     "original_repository_id": 563156667,
     "original_repository_sha": "6b070f3ae4ee301959403184523451e40a97e5a3",
