@@ -165,7 +165,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18111
+            "stars": 18114
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2021-04-30T11:50:25Z",
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8022
+            "stars": 8023
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2024-07-21T04:16:22Z",
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8368
+            "stars": 8367
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2024-07-21T04:16:22Z",
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8368
+            "stars": 8367
           }
         },
         {
@@ -908,7 +908,7 @@
                 "last_commit": "2022-11-18T17:43:03Z",
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4181
+                "stars": 4182
               }
             }
           ],
@@ -945,7 +945,7 @@
                 "last_commit": "2022-11-18T17:43:03Z",
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4181
+                "stars": 4182
               }
             },
             {
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:33.704Z",
+    "last_updated": "2026-08-26T06:21:25.823Z",
     "original_repository": "TaoWangzj/Awesome-Face-Restoration",
     "original_repository_id": 563156667,
     "original_repository_sha": "6b070f3ae4ee301959403184523451e40a97e5a3",
