@@ -165,7 +165,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18114
+            "stars": 18117
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2024-07-21T04:16:22Z",
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8367
+            "stars": 8368
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2024-07-21T04:16:22Z",
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8367
+            "stars": 8368
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2024-07-02T17:30:14Z",
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4269
+            "stars": 4270
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37658
+            "stars": 37659
           }
         },
         {
@@ -908,7 +908,7 @@
                 "last_commit": "2022-11-18T17:43:03Z",
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4182
+                "stars": 4183
               }
             }
           ],
@@ -945,7 +945,7 @@
                 "last_commit": "2022-11-18T17:43:03Z",
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4182
+                "stars": 4183
               }
             },
             {
@@ -1003,9 +1003,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:21:25.823Z",
-    "original_repository": "TaoWangzj/Awesome-Face-Restoration",
-    "original_repository_id": 563156667,
+    "last_updated": "2026-08-27T11:21:55.225Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 563156667,
+      "language": null,
+      "last_commit": "2026-03-20T14:35:27Z",
+      "owner": "TaoWangzj",
+      "repo": "Awesome-Face-Restoration",
+      "stars": 484
+    },
     "original_repository_sha": "6b070f3ae4ee301959403184523451e40a97e5a3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Face-Restoration",
     "enhanced_repository_description": null,
