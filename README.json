@@ -16,7 +16,8 @@
             "owner": "csxmli2016",
             "repo": "GFRNet",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tyshiwo",
             "repo": "FSRNet",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "csxmli2016",
             "repo": "DFDNet",
             "stars": 945
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "csxmli2016",
             "repo": "ASFFNet",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Lotayou",
             "repo": "Face-Renovation",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "genforce",
             "repo": "mganprior",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "chaofengc",
             "repo": "PSFRGAN",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "yangxy",
             "repo": "GPEN",
             "stars": 2612
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "wzhouxiff",
             "repo": "RestoreFormer",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18116
-          }
+            "stars": 18120
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "jianzhangcs",
             "repo": "panini",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "TencentARC",
             "repo": "VQFR",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "csxmli2016",
             "repo": "DMDNet",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "zsyOAOA",
             "repo": "DifFace",
             "stars": 709
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "Kaldwin0106",
             "repo": "DR2_Drgradation_Remover",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "Nithin-GK",
             "repo": "AT-DDPM",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "chenxx89",
             "repo": "BFRffusion",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         }
       ],
       "title": "Deep Blind Face Restoration"
@@ -307,7 +326,8 @@
             "owner": "jiaming-wang",
             "repo": "URDGN",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "jingyang2017",
             "repo": "Face-and-Image-super-resolution",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "DeokyunKim",
             "repo": "Progressive-Face-Super-Resolution",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "SeungyounShin",
             "repo": "CAGFace",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "alex-damian",
             "repo": "pulse",
             "stars": 8023
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "mdswyz",
             "repo": "SISN-Face-Hallucination",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "hejingwenhejingwen",
             "repo": "GCFSR",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "HDCVLab",
             "repo": "EDFace-Celeb-1M",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "HaoHou-98",
             "repo": "SCGAN",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "wyhuai",
             "repo": "RND",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "wcy-cs",
             "repo": "SFMNet",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "FVL2020",
             "repo": "ELSFace",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "jingang-cv",
             "repo": "DBTC",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "HaoHou-98",
             "repo": "SCGAN",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         }
       ],
       "title": "Deep Face Super-Resolution"
@@ -523,7 +556,8 @@
             "owner": "joanshen0508",
             "repo": "Deep-Semantic-Face-Deblurring",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "rajeevyasarla",
             "repo": "UMSN-Face-Deblurring",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "Lotayou",
             "repo": "Face-Renovation",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         }
       ],
       "title": "Deep Face Deblurring"
@@ -604,7 +642,8 @@
             "owner": "Lotayou",
             "repo": "Face-Renovation",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         }
       ],
       "title": "Deep Face Denoising"
@@ -655,7 +696,8 @@
             "owner": "Lotayou",
             "repo": "Face-Renovation",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -670,7 +712,8 @@
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -685,7 +728,8 @@
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         }
       ],
       "title": "Deep Face Artifact Removal"
@@ -705,8 +749,9 @@
             "last_commit": "2024-07-21T04:16:22Z",
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8368
-          }
+            "stars": 8369
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -720,8 +765,9 @@
             "last_commit": "2024-07-21T04:16:22Z",
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8368
-          }
+            "stars": 8369
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "VainF",
             "repo": "pytorch-msssim",
             "stars": 1253
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -750,8 +797,9 @@
             "last_commit": "2024-07-02T17:30:14Z",
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4270
-          }
+            "stars": 4272
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "utlive",
             "repo": "niqe",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "bioinf-jku",
             "repo": "TTUR",
             "stars": 900
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "chaoma99",
             "repo": "sr-metric",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -811,7 +862,8 @@
             "owner": "Lotayou",
             "repo": "Face-Renovation",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -825,8 +877,9 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37660
-          }
+            "stars": 37661
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -841,7 +894,8 @@
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         },
         {
           "node_type": "item",
@@ -856,7 +910,8 @@
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T17:43:47.263Z"
         }
       ],
       "title": "Image Quality Assessment"
@@ -879,7 +934,8 @@
                 "owner": "HDCVLab",
                 "repo": "EDFace-Celeb-1M",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             },
             {
               "node_type": "item",
@@ -894,7 +950,8 @@
                 "owner": "chenxx89",
                 "repo": "BFRffusion",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             },
             {
               "node_type": "item",
@@ -909,7 +966,8 @@
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
                 "stars": 4183
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             }
           ],
           "description": null,
@@ -931,7 +989,8 @@
                 "owner": "jiankangdeng",
                 "repo": "MenpoBenchmark",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             },
             {
               "node_type": "item",
@@ -946,7 +1005,8 @@
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
                 "stars": 4183
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             },
             {
               "node_type": "item",
@@ -961,7 +1021,8 @@
                 "owner": "HDCVLab",
                 "repo": "EDFace-Celeb-1M",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1037,8 @@
                 "owner": "bitzpy",
                 "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             },
             {
               "node_type": "item",
@@ -991,7 +1053,8 @@
                 "owner": "bitzpy",
                 "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:43:47.263Z"
             }
           ],
           "description": null,
@@ -1003,7 +1066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:51:08.578Z",
+    "last_updated": "2026-08-28T17:43:47.263Z",
     "original_repository_info": {
       "archived": false,
       "id": 563156667,
