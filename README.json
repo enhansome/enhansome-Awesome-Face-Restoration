@@ -242,7 +242,7 @@
             "open_issues": 282,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18120,
+            "stars": 18119,
             "topics": [
               "codebook",
               "codeformer",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:41.213Z",
+    "last_updated": "2026-08-29T11:47:51.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
