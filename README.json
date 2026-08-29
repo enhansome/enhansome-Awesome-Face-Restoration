@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning warped guidance for blind face restoration (ECCV 2018)",
+            "homepage": null,
             "id": 129251686,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-08-02T09:31:14Z",
+            "open_issues": 2,
             "owner": "csxmli2016",
             "repo": "GFRNet",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo code for our CVPR'18 paper \"FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors\" (SPOTLIGHT Presentation)",
+            "homepage": null,
             "id": 123090232,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-06-26T11:41:26Z",
+            "open_issues": 11,
             "owner": "tyshiwo",
             "repo": "FSRNet",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blind Face Restoration via Deep Multi-scale Component Dictionaries (ECCV 2020)",
+            "homepage": null,
             "id": 277421769,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-05T02:39:35Z",
+            "open_issues": 39,
             "owner": "csxmli2016",
             "repo": "DFDNet",
-            "stars": 945
+            "stars": 945,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion (CVPR 2020)",
+            "homepage": null,
             "id": 245618458,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-14T14:08:58Z",
+            "open_issues": 0,
             "owner": "csxmli2016",
             "repo": "ASFFNet",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -74,12 +94,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of the paper \"HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment\".",
+            "homepage": "https://arxiv.org/abs/2005.05005",
             "id": 264153103,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-06T09:37:33Z",
+            "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "benchmark",
+              "image-restoration",
+              "sota"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2020] Image Processing Using Multi-Code GAN Prior",
+            "homepage": "https://genforce.github.io/mganprior/",
             "id": 251552756,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-17T05:28:13Z",
+            "open_issues": 12,
             "owner": "genforce",
             "repo": "mganprior",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -106,12 +140,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch codes for \"Progressive Semantic-Aware Style Transformation for Blind Face Restoration\", CVPR2021",
+            "homepage": null,
             "id": 296362408,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-10T01:40:36Z",
+            "open_issues": 4,
             "owner": "chaofengc",
             "repo": "PSFRGAN",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "enhanced-faces",
+              "face",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -122,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 355409437,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-03-10T03:45:58Z",
+            "open_issues": 110,
             "owner": "yangxy",
             "repo": "GPEN",
-            "stars": 2612
+            "stars": 2612,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -138,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of paper \"Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration\".",
+            "homepage": null,
             "id": 505293155,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-20T05:41:37Z",
+            "open_issues": 4,
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -154,12 +207,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs",
+            "homepage": null,
             "id": 471446040,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-10T02:03:41Z",
+            "open_issues": 14,
             "owner": "wzhouxiff",
             "repo": "RestoreFormer",
-            "stars": 364
+            "stars": 364,
+            "topics": [
+              "dictionary",
+              "face-restoration",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -170,12 +233,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "homepage": null,
             "id": 505667511,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-18T12:03:30Z",
+            "open_issues": 282,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18120
+            "stars": 18120,
+            "topics": [
+              "codebook",
+              "codeformer",
+              "face-enhancement",
+              "face-restoration",
+              "pytorch",
+              "restoration",
+              "super-resolution",
+              "vqgan"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -186,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration, AAAI 2022 (PyTorch Code)",
+            "homepage": null,
             "id": 476977744,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-18T05:26:30Z",
+            "open_issues": 11,
             "owner": "jianzhangcs",
             "repo": "panini",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -202,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474268817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-14T10:57:14Z",
+            "open_issues": 6,
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -218,12 +305,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECCV 2022, Oral, VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder",
+            "homepage": "https://ycgu.site/projects/vqfr",
             "id": 490120217,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-15T15:26:48Z",
+            "open_issues": 24,
             "owner": "TencentARC",
             "repo": "VQFR",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "face-restoration",
+              "vector-quantization"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -234,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Dual Memory Dictionaries for Blind Face Restoration",
+            "homepage": null,
             "id": 394848580,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-28T13:58:22Z",
+            "open_issues": 3,
             "owner": "csxmli2016",
             "repo": "DMDNet",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -250,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DifFace: Blind Face Restoration with Diffused Error Contraction (TPAMI, 2024)",
+            "homepage": null,
             "id": 572417563,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-25T04:39:35Z",
+            "open_issues": 14,
             "owner": "zsyOAOA",
             "repo": "DifFace",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -266,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration. CVPR 2023.",
+            "homepage": null,
             "id": 623316661,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-04T06:12:27Z",
+            "open_issues": 6,
             "owner": "Kaldwin0106",
             "repo": "DR2_Drgradation_Remover",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -282,12 +392,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV '23] AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models",
+            "homepage": null,
             "id": 538220613,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-23T23:55:29Z",
+            "open_issues": 2,
             "owner": "Nithin-GK",
             "repo": "AT-DDPM",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "atmospheric-turbulence",
+              "diffusion-models",
+              "diffusion-reconstruction",
+              "image-reconstruction",
+              "image-super-resolution",
+              "pytorch",
+              "turbulence-restoration"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -298,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codes of Towards Real-World Blind Face Restoration with Generative Diffusion Prior",
+            "homepage": null,
             "id": 725604450,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-19T01:20:02Z",
+            "open_issues": 11,
             "owner": "chenxx89",
             "repo": "BFRffusion",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         }
@@ -320,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-resolving face images by discriminative generative networks ",
+            "homepage": null,
             "id": 164400555,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-04-25T12:40:00Z",
+            "open_issues": 0,
             "owner": "jiaming-wang",
             "repo": "URDGN",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -336,12 +469,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 149881822,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-19T14:14:39Z",
+            "open_issues": 7,
             "owner": "jingyang2017",
             "repo": "Face-and-Image-super-resolution",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "face",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -352,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch Implementation of Progressive Face Super-Resolution (BMVC 2019 Accepted)",
+            "homepage": null,
             "id": 200457499,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-29T02:10:40Z",
+            "open_issues": 16,
             "owner": "DeokyunKim",
             "repo": "Progressive-Face-Super-Resolution",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -368,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Component Attention Guided Face Super-Resolution Network: CAGFace",
+            "homepage": null,
             "id": 222833250,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-25T08:35:40Z",
+            "open_issues": 5,
             "owner": "SeungyounShin",
             "repo": "CAGFace",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -384,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+            "homepage": null,
             "id": 265645902,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-30T11:50:25Z",
+            "open_issues": 61,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8023
+            "stars": 8023,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -400,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An official implementation of \"Face Hallucination via Split-Attention in Split-Attention Network\" in PyTorch. (ACM MM 2021)",
+            "homepage": null,
             "id": 320868250,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-27T08:25:54Z",
+            "open_issues": 3,
             "owner": "mdswyz",
             "repo": "SISN-Face-Hallucination",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -416,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(CVPR 2022) GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors",
+            "homepage": null,
             "id": 473055369,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-21T13:16:39Z",
+            "open_issues": 13,
             "owner": "hejingwenhejingwen",
             "repo": "GCFSR",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -432,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 415726548,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-12T23:35:22Z",
+            "open_issues": 1,
             "owner": "HDCVLab",
             "repo": "EDFace-Celeb-1M",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -448,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution",
+            "homepage": null,
             "id": 487299413,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-15T09:17:10Z",
+            "open_issues": 5,
             "owner": "HaoHou-98",
             "repo": "SCGAN",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -464,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2023 Oral] GAN Prior based Null-Space Learning for Consistent Super-Resolution",
+            "homepage": "https://github.com/wyhuai/RND",
             "id": 569766711,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-05-18T08:11:34Z",
+            "open_issues": 3,
             "owner": "wyhuai",
             "repo": "RND",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -480,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 618659070,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-26T07:21:43Z",
+            "open_issues": 1,
             "owner": "wcy-cs",
             "repo": "SFMNet",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -496,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of TMM paper \"An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution\"",
+            "homepage": null,
             "id": 647178187,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-30T08:41:38Z",
+            "open_issues": 5,
             "owner": "FVL2020",
             "repo": "ELSFace",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -512,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploiting Multi-scale Parallel Self-attention and Local Variation via Dual-branch Transformer-CNN Structure for Face Super-resolution",
+            "homepage": null,
             "id": 670785143,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-10T17:55:14Z",
+            "open_issues": 1,
             "owner": "jingang-cv",
             "repo": "DBTC",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -528,12 +724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution",
+            "homepage": null,
             "id": 487299413,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-15T09:17:10Z",
+            "open_issues": 5,
             "owner": "HaoHou-98",
             "repo": "SCGAN",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         }
@@ -550,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Semantic Face Deblurring",
+            "homepage": null,
             "id": 148506934,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2020-07-09T12:53:55Z",
+            "open_issues": 6,
             "owner": "joanshen0508",
             "repo": "Deep-Semantic-Face-Deblurring",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -566,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks",
+            "homepage": null,
             "id": 199096837,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:14:47Z",
+            "open_issues": 3,
             "owner": "rajeevyasarla",
             "repo": "UMSN-Face-Deblurring",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -582,12 +793,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of the paper \"HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment\".",
+            "homepage": "https://arxiv.org/abs/2005.05005",
             "id": 264153103,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-06T09:37:33Z",
+            "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "benchmark",
+              "image-restoration",
+              "sota"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -598,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of paper \"Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration\".",
+            "homepage": null,
             "id": 505293155,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-20T05:41:37Z",
+            "open_issues": 4,
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -614,12 +839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474268817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-14T10:57:14Z",
+            "open_issues": 6,
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         }
@@ -636,12 +866,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of the paper \"HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment\".",
+            "homepage": "https://arxiv.org/abs/2005.05005",
             "id": 264153103,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-06T09:37:33Z",
+            "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "benchmark",
+              "image-restoration",
+              "sota"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -652,12 +891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of paper \"Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration\".",
+            "homepage": null,
             "id": 505293155,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-20T05:41:37Z",
+            "open_issues": 4,
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -668,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474268817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-14T10:57:14Z",
+            "open_issues": 6,
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         }
@@ -690,12 +939,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of the paper \"HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment\".",
+            "homepage": "https://arxiv.org/abs/2005.05005",
             "id": 264153103,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-06T09:37:33Z",
+            "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "benchmark",
+              "image-restoration",
+              "sota"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -706,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474268817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-14T10:57:14Z",
+            "open_issues": 6,
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -722,12 +985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of paper \"Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration\".",
+            "homepage": null,
             "id": 505293155,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-20T05:41:37Z",
+            "open_issues": 4,
             "owner": "YYJ1anG",
             "repo": "MFPSNet",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         }
@@ -744,12 +1012,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.",
+            "homepage": "https://basicsr.readthedocs.io/en/latest/",
             "id": 130259654,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-21T04:16:22Z",
+            "open_issues": 353,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8369
+            "stars": 8369,
+            "topics": [
+              "basicsr",
+              "basicvsr",
+              "dfdnet",
+              "ecbsr",
+              "edsr",
+              "edvr",
+              "esrgan",
+              "pytorch",
+              "rcan",
+              "restoration",
+              "srgan",
+              "srresnet",
+              "stylegan2",
+              "super-resolution",
+              "swinir"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -760,12 +1049,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.",
+            "homepage": "https://basicsr.readthedocs.io/en/latest/",
             "id": 130259654,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-21T04:16:22Z",
+            "open_issues": 353,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8369
+            "stars": 8369,
+            "topics": [
+              "basicsr",
+              "basicvsr",
+              "dfdnet",
+              "ecbsr",
+              "edsr",
+              "edvr",
+              "esrgan",
+              "pytorch",
+              "rcan",
+              "restoration",
+              "srgan",
+              "srresnet",
+              "stylegan2",
+              "super-resolution",
+              "swinir"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -776,12 +1086,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and differentiable MS-SSIM and SSIM for pytorch.",
+            "homepage": null,
             "id": 182106341,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-12T11:37:10Z",
+            "open_issues": 28,
             "owner": "VainF",
             "repo": "pytorch-msssim",
-            "stars": 1253
+            "stars": 1253,
+            "topics": [
+              "image-quality",
+              "ms-ssim",
+              "pytorch",
+              "ssim",
+              "structure-similarity"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -792,12 +1113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LPIPS metric. pip install lpips",
+            "homepage": "https://richzhang.github.io/PerceptualSimilarity",
             "id": 117034492,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-07-02T17:30:14Z",
+            "open_issues": 59,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4272
+            "stars": 4272,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "perceptual",
+              "perceptual-losses",
+              "perceptual-metric",
+              "perceptual-similarity",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -808,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 330295959,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2021-10-26T02:37:09Z",
+            "open_issues": 1,
             "owner": "utlive",
             "repo": "niqe",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -824,12 +1163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Two time-scale update rule for training GANs",
+            "homepage": null,
             "id": 95449617,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-14T12:30:40Z",
+            "open_issues": 18,
             "owner": "bioinf-jku",
             "repo": "TTUR",
-            "stars": 900
+            "stars": 900,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -840,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning a No-Reference Quality Metric for Single-Image Super-Rolution",
+            "homepage": "https://sites.google.com/site/chaoma99/sr-metric",
             "id": 57381950,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2021-11-14T13:48:03Z",
+            "open_issues": 9,
             "owner": "chaoma99",
             "repo": "sr-metric",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -856,12 +1205,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of the paper \"HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment\".",
+            "homepage": "https://arxiv.org/abs/2005.05005",
             "id": 264153103,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-06T09:37:33Z",
+            "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "benchmark",
+              "image-restoration",
+              "sota"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -872,12 +1230,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+            "homepage": null,
             "id": 349321229,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-26T18:44:02Z",
+            "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37661
+            "stars": 37660,
+            "topics": [
+              "deep-learning",
+              "face-restoration",
+              "gan",
+              "gfpgan",
+              "image-restoration",
+              "pytorch",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -888,12 +1259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474268817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-14T10:57:14Z",
+            "open_issues": 6,
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         },
@@ -904,12 +1280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474268817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-14T10:57:14Z",
+            "open_issues": 6,
             "owner": "bitzpy",
             "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
         }
@@ -928,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 415726548,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-12T23:35:22Z",
+                "open_issues": 1,
                 "owner": "HDCVLab",
                 "repo": "EDFace-Celeb-1M",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             },
@@ -944,12 +1330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codes of Towards Real-World Blind Face Restoration with Generative Diffusion Prior",
+                "homepage": null,
                 "id": 725604450,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-19T01:20:02Z",
+                "open_issues": 11,
                 "owner": "chenxx89",
                 "repo": "BFRffusion",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             },
@@ -960,12 +1351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flickr-Faces-HQ Dataset (FFHQ)",
+                "homepage": null,
                 "id": 169100865,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-18T17:43:03Z",
+                "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4183
+                "stars": 4183,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             }
@@ -983,12 +1379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-pose 2D and 3D Face Alignment & Tracking",
+                "homepage": "https://link.springer.com/article/10.1007/s11263-018-1134-y",
                 "id": 164701742,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2022-07-14T10:59:23Z",
+                "open_issues": 5,
                 "owner": "jiankangdeng",
                 "repo": "MenpoBenchmark",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             },
@@ -999,12 +1400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flickr-Faces-HQ Dataset (FFHQ)",
+                "homepage": null,
                 "id": 169100865,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-18T17:43:03Z",
+                "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4183
+                "stars": 4183,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             },
@@ -1015,12 +1421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 415726548,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-12T23:35:22Z",
+                "open_issues": 1,
                 "owner": "HDCVLab",
                 "repo": "EDFace-Celeb-1M",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             },
@@ -1031,12 +1442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 474268817,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-14T10:57:14Z",
+                "open_issues": 6,
                 "owner": "bitzpy",
                 "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             },
@@ -1047,12 +1463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 474268817,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-14T10:57:14Z",
+                "open_issues": 6,
                 "owner": "bitzpy",
                 "repo": "Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
             }
@@ -1066,15 +1487,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:47.263Z",
+    "last_updated": "2026-08-29T04:41:41.213Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
+      "homepage": null,
       "id": 563156667,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-20T14:35:27Z",
+      "open_issues": 0,
       "owner": "TaoWangzj",
       "repo": "Awesome-Face-Restoration",
-      "stars": 484
+      "stars": 484,
+      "topics": [
+        "awesome-list",
+        "blind-face-restoration",
+        "face-artifact-removal",
+        "face-deblurring",
+        "face-denoising",
+        "face-restoration",
+        "face-super-resolution",
+        "ffhq"
+      ]
     },
     "original_repository_sha": "6b070f3ae4ee301959403184523451e40a97e5a3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Face-Restoration",

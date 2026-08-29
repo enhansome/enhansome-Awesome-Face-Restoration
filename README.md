@@ -209,7 +209,7 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 | iPrecision                                                    | Task Driven-Metric | [Ref](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)                      |
 | iRecall                                                       | Task Driven-Metric | [Ref](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)                      |
 | LLE (Landmark Localization Error)                             | Task Driven-Metric | [Code](https://github.com/Lotayou/Face-Renovation) ⭐ 292 \| 🐛 18 \| 🌐 Python \| 📅 2020-12-06                                             |
-| Deg (Identity Distance)                                       | Task Driven-Metric | [Code](https://github.com/TencentARC/GFPGAN) ⭐ 37,661 \| 🐛 402 \| 🌐 Python \| 📅 2024-07-26                                               |
+| Deg (Identity Distance)                                       | Task Driven-Metric | [Code](https://github.com/TencentARC/GFPGAN) ⭐ 37,660 \| 🐛 402 \| 🌐 Python \| 📅 2024-07-26                                               |
 | AFLD (Average Face Landmark Distance)                         | Task Driven-Metric | [Code](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model) ⭐ 39 \| 🐛 6 \| 🌐 Python \| 📅 2022-09-14 |
 | AFICS (Average Face ID Cosine Similarity)                     | Task Driven-Metric | [Code](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model) ⭐ 39 \| 🐛 6 \| 🌐 Python \| 📅 2022-09-14 |
 
@@ -268,4 +268,4 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
