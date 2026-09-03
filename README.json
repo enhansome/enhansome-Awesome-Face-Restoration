@@ -174,7 +174,7 @@
             "open_issues": 110,
             "owner": "yangxy",
             "repo": "GPEN",
-            "stars": 2612,
+            "stars": 2613,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -242,7 +242,7 @@
             "open_issues": 282,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18121,
+            "stars": 18124,
             "topics": [
               "codebook",
               "codeformer",
@@ -544,7 +544,7 @@
             "open_issues": 61,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8024,
+            "stars": 8023,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1021,7 +1021,7 @@
             "open_issues": 353,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8369,
+            "stars": 8370,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 353,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8369,
+            "stars": 8370,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1122,7 +1122,7 @@
             "open_issues": 59,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4272,
+            "stars": 4274,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1360,7 +1360,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4182,
+                "stars": 4183,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4182,
+                "stars": 4183,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:58:45.850Z",
+    "last_updated": "2026-09-03T10:08:39.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
