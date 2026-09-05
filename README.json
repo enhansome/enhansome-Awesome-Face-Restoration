@@ -242,7 +242,7 @@
             "open_issues": 282,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18124,
+            "stars": 18125,
             "topics": [
               "codebook",
               "codeformer",
@@ -1095,7 +1095,7 @@
             "open_issues": 28,
             "owner": "VainF",
             "repo": "pytorch-msssim",
-            "stars": 1253,
+            "stars": 1252,
             "topics": [
               "image-quality",
               "ms-ssim",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37665,
+            "stars": 37668,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:59:13.453Z",
+    "last_updated": "2026-09-05T09:28:28.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
