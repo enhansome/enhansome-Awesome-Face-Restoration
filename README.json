@@ -174,7 +174,7 @@
             "open_issues": 110,
             "owner": "yangxy",
             "repo": "GPEN",
-            "stars": 2614,
+            "stars": 2613,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18167,
+            "stars": 18170,
             "topics": [
               "codebook",
               "codeformer",
@@ -478,7 +478,7 @@
             "open_issues": 7,
             "owner": "jingyang2017",
             "repo": "Face-and-Image-super-resolution",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "face",
               "super-resolution"
@@ -1018,7 +1018,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-07-21T04:16:22Z",
-            "open_issues": 354,
+            "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
             "stars": 8386,
@@ -1055,7 +1055,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-07-21T04:16:22Z",
-            "open_issues": 354,
+            "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
             "stars": 8386,
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T12:02:14.486Z",
+    "last_updated": "2026-09-29T11:36:34.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
