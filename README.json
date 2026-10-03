@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18172,
+            "stars": 18170,
             "topics": [
               "codebook",
               "codeformer",
@@ -781,7 +781,7 @@
             "open_issues": 3,
             "owner": "rajeevyasarla",
             "repo": "UMSN-Face-Deblurring",
-            "stars": 123,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8387,
+            "stars": 8391,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8387,
+            "stars": 8391,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37688,
+            "stars": 37685,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:23:19.937Z",
+    "last_updated": "2026-10-03T04:26:01.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
