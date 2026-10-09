@@ -61,7 +61,7 @@
             "open_issues": 39,
             "owner": "csxmli2016",
             "repo": "DFDNet",
-            "stars": 946,
+            "stars": 944,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18173,
+            "stars": 18170,
             "topics": [
               "codebook",
               "codeformer",
@@ -544,7 +544,7 @@
             "open_issues": 61,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8025,
+            "stars": 8024,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8393,
+            "stars": 8392,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8393,
+            "stars": 8392,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1122,7 +1122,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4283,
+            "stars": 4284,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1172,7 +1172,7 @@
             "open_issues": 18,
             "owner": "bioinf-jku",
             "repo": "TTUR",
-            "stars": 899,
+            "stars": 900,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37688,
+            "stars": 37690,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1360,7 +1360,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4192,
+                "stars": 4194,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4192,
+                "stars": 4194,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:16:00.807Z",
+    "last_updated": "2026-10-09T12:07:25.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
