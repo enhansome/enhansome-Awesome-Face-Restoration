@@ -198,10 +198,10 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 
 | Method                                                        | Type               | Code/Ref                                                                                                                                    |
 | ------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| PSNR (Peak Signal-to-Noise Ratio)                             | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,390 \| 🐛 355 \| 🌐 Python \| 📅 2024-07-21     |
-| SSIM (Structural Similarity Index Measurement)                | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,390 \| 🐛 355 \| 🌐 Python \| 📅 2024-07-21     |
+| PSNR (Peak Signal-to-Noise Ratio)                             | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,389 \| 🐛 355 \| 🌐 Python \| 📅 2024-07-21     |
+| SSIM (Structural Similarity Index Measurement)                | Full-Reference     | [Code](https://github.com/XPixelGroup/BasicSR/blob/master/basicsr/metrics/psnr_ssim.py) ⭐ 8,389 \| 🐛 355 \| 🌐 Python \| 📅 2024-07-21     |
 | MS-SSIM (Multi-scale Structural Similarity Index Measurement) | Full-Reference     | [Code](https://github.com/VainF/pytorch-msssim/blob/master/pytorch_msssim/ssim.py) ⭐ 1,253 \| 🐛 28 \| 🌐 Python \| 📅 2024-03-12           |
-| LPIPS (Learned Perceptual Image Patch Similarity)             | Full-Reference     | [Code](https://github.com/richzhang/PerceptualSimilarity) ⭐ 4,285 \| 🐛 58 \| 🌐 Python \| 📅 2024-07-02                                    |
+| LPIPS (Learned Perceptual Image Patch Similarity)             | Full-Reference     | [Code](https://github.com/richzhang/PerceptualSimilarity) ⭐ 4,286 \| 🐛 58 \| 🌐 Python \| 📅 2024-07-02                                    |
 | NIQE (Naturalness Image Quality Evaluator)                    | Non-Reference      | [Code](https://github.com/utlive/niqe) ⭐ 25 \| 🐛 1 \| 🌐 MATLAB \| 📅 2021-10-26                                                           |
 | FID (Fréchet Inception Distance)                              | Non-Reference      | [Code](https://github.com/bioinf-jku/TTUR) ⭐ 900 \| 🐛 18 \| 🌐 Jupyter Notebook \| 📅 2025-12-14                                           |
 | PI (Perceptual Index)                                         | Non-Reference      | [Code](https://github.com/chaoma99/sr-metric) ⭐ 133 \| 🐛 9 \| 🌐 MATLAB \| 📅 2021-11-14                                                   |
@@ -268,4 +268,4 @@ If you have any suggestions, feel free to contact me (e-mail: <taowangzj@gmail.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
