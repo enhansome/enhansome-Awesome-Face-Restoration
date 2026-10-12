@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18169,
+            "stars": 18171,
             "topics": [
               "codebook",
               "codeformer",
@@ -544,7 +544,7 @@
             "open_issues": 61,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8022,
+            "stars": 8023,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -670,7 +670,7 @@
             "open_issues": 1,
             "owner": "wcy-cs",
             "repo": "SFMNet",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8389,
+            "stars": 8391,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8389,
+            "stars": 8391,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1095,7 +1095,7 @@
             "open_issues": 28,
             "owner": "VainF",
             "repo": "pytorch-msssim",
-            "stars": 1253,
+            "stars": 1254,
             "topics": [
               "image-quality",
               "ms-ssim",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37692,
+            "stars": 37696,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:38:19.954Z",
+    "last_updated": "2026-10-12T13:34:23.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
