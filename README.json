@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18200,
+            "stars": 18202,
             "topics": [
               "codebook",
               "codeformer",
@@ -544,7 +544,7 @@
             "open_issues": 62,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8052,
+            "stars": 8051,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1122,7 +1122,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4306,
+            "stars": 4308,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37700,
+            "stars": 37699,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1360,7 +1360,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4202,
+                "stars": 4204,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4202,
+                "stars": 4204,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:48:48.352Z",
+    "last_updated": "2026-10-30T11:41:25.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
