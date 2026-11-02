@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18202,
+            "stars": 18206,
             "topics": [
               "codebook",
               "codeformer",
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8401,
+            "stars": 8402,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8401,
+            "stars": 8402,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37696,
+            "stars": 37699,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:03:59.771Z",
+    "last_updated": "2026-11-02T13:52:43.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
@@ -1499,7 +1499,7 @@
       "open_issues": 0,
       "owner": "TaoWangzj",
       "repo": "Awesome-Face-Restoration",
-      "stars": 481,
+      "stars": 480,
       "topics": [
         "awesome-list",
         "blind-face-restoration",
