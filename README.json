@@ -103,7 +103,7 @@
             "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "benchmark",
               "image-restoration",
@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18209,
+            "stars": 18210,
             "topics": [
               "codebook",
               "codeformer",
@@ -544,7 +544,7 @@
             "open_issues": 62,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8053,
+            "stars": 8054,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -802,7 +802,7 @@
             "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "benchmark",
               "image-restoration",
@@ -875,7 +875,7 @@
             "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "benchmark",
               "image-restoration",
@@ -948,7 +948,7 @@
             "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "benchmark",
               "image-restoration",
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8405,
+            "stars": 8406,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8405,
+            "stars": 8406,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1214,7 +1214,7 @@
             "open_issues": 18,
             "owner": "Lotayou",
             "repo": "Face-Renovation",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "benchmark",
               "image-restoration",
@@ -1360,7 +1360,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4205,
+                "stars": 4203,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 6,
                 "owner": "NVlabs",
                 "repo": "ffhq-dataset",
-                "stars": 4205,
+                "stars": 4203,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:18:40.498Z",
+    "last_updated": "2026-11-05T13:31:20.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
