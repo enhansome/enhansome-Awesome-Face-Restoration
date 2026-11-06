@@ -544,7 +544,7 @@
             "open_issues": 62,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8054,
+            "stars": 8055,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37702,
+            "stars": 37701,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:31:20.394Z",
+    "last_updated": "2026-11-06T13:15:50.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
