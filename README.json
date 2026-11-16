@@ -174,7 +174,7 @@
             "open_issues": 110,
             "owner": "yangxy",
             "repo": "GPEN",
-            "stars": 2612,
+            "stars": 2613,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18233,
+            "stars": 18240,
             "topics": [
               "codebook",
               "codeformer",
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8415,
+            "stars": 8417,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8415,
+            "stars": 8417,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1092,7 +1092,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-03-12T11:37:10Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "VainF",
             "repo": "pytorch-msssim",
             "stars": 1256,
@@ -1122,7 +1122,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4310,
+            "stars": 4311,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37703,
+            "stars": 37706,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:58:49.043Z",
+    "last_updated": "2026-11-16T14:02:18.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
