@@ -61,7 +61,7 @@
             "open_issues": 39,
             "owner": "csxmli2016",
             "repo": "DFDNet",
-            "stars": 944,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -242,7 +242,7 @@
             "open_issues": 283,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18248,
+            "stars": 18253,
             "topics": [
               "codebook",
               "codeformer",
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8417,
+            "stars": 8419,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8417,
+            "stars": 8419,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1122,7 +1122,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4312,
+            "stars": 4311,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1239,7 +1239,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37714,
+            "stars": 37721,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:56:18.604Z",
+    "last_updated": "2026-11-18T14:36:47.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
