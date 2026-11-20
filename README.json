@@ -149,7 +149,7 @@
             "open_issues": 4,
             "owner": "chaofengc",
             "repo": "PSFRGAN",
-            "stars": 382,
+            "stars": 381,
             "topics": [
               "enhanced-faces",
               "face",
@@ -242,7 +242,7 @@
             "open_issues": 284,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18254,
+            "stars": 18253,
             "topics": [
               "codebook",
               "codeformer",
@@ -314,7 +314,7 @@
             "open_issues": 25,
             "owner": "TencentARC",
             "repo": "VQFR",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "face-restoration",
               "vector-quantization"
@@ -544,7 +544,7 @@
             "open_issues": 62,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8054,
+            "stars": 8052,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8421,
+            "stars": 8420,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8421,
+            "stars": 8420,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1095,7 +1095,7 @@
             "open_issues": 29,
             "owner": "VainF",
             "repo": "pytorch-msssim",
-            "stars": 1256,
+            "stars": 1255,
             "topics": [
               "image-quality",
               "ms-ssim",
@@ -1122,7 +1122,7 @@
             "open_issues": 58,
             "owner": "richzhang",
             "repo": "PerceptualSimilarity",
-            "stars": 4311,
+            "stars": 4310,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -1236,10 +1236,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T18:44:02Z",
-            "open_issues": 403,
+            "open_issues": 404,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37724,
+            "stars": 37723,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:43:19.341Z",
+    "last_updated": "2026-11-20T14:24:47.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
