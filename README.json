@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8423,
+            "stars": 8422,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8423,
+            "stars": 8422,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1239,7 +1239,7 @@
             "open_issues": 404,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37724,
+            "stars": 37727,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:44:20.086Z",
+    "last_updated": "2026-11-22T13:38:15.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
