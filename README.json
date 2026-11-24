@@ -242,7 +242,7 @@
             "open_issues": 284,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18259,
+            "stars": 18262,
             "topics": [
               "codebook",
               "codeformer",
@@ -314,7 +314,7 @@
             "open_issues": 25,
             "owner": "TencentARC",
             "repo": "VQFR",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "face-restoration",
               "vector-quantization"
@@ -544,7 +544,7 @@
             "open_issues": 62,
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8052,
+            "stars": 8053,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:47.263Z"
@@ -1021,7 +1021,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8423,
+            "stars": 8424,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1058,7 +1058,7 @@
             "open_issues": 355,
             "owner": "XPixelGroup",
             "repo": "BasicSR",
-            "stars": 8423,
+            "stars": 8424,
             "topics": [
               "basicsr",
               "basicvsr",
@@ -1487,7 +1487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T16:31:53.131Z",
+    "last_updated": "2026-11-24T16:31:03.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of recources (papers, repositories etc.) about face restoration methods.",
